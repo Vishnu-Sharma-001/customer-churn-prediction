@@ -7,3 +7,4 @@ build/
 .streamlit/secrets.toml
 venv/
 .venv/
+cloudflared.exe
